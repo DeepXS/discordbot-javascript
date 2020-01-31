@@ -33,8 +33,8 @@ Primeiramente, você precisará **baixar** o __[node.js](https://nodejs.org/)__ 
 
 # Como troco o jogando do bot?
 
-Acesse o arquivo `index.js` e procure por **var jogando = `${client.user.username} - ${client.guilds.size} servidores`**, basta alterar a mensagem escrita depois do `=`.
+Acesse o arquivo `Client.js ( Como exemplo no repositório q criei aki ,_, )` e procure por **var jogando = `${client.user.username} - ${client.guilds.size} servidores`**, basta alterar a mensagem escrita depois do `=`.
 
 # Como criar novos comandos?
 
-👾 Você apenas precisa criar um arquivo na pasta comandos: `NomeDoComando.js`, dentro deste arquivo você colocará o código do comando,  para editar o arquivo, recomendo usar [Visual Studio Code](https://code.visualstudio.com/), existem alguns comandos de **exemplo** na pasta. Se você tiver dúvidas poderá **consultar** algumas **comunidades** de programação no discord: **[LabNegro](https://discord.gg/XzHdjaD)** etc...
+👾 Você apenas precisa criar um arquivo na pasta comandos: `NomeDoComando.js`, dentro deste arquivo você colocará o código do comando,  para editar o arquivo, recomendo usar [Visual Studio Code](https://code.visualstudio.com/).
